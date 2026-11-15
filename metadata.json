@@ -1,0 +1,6 @@
+{
+  "name": "AuraSpace",
+  "description": "Material 3 phone personalization studio featuring curated and procedural gradient wallpapers, customizable Jetpack Glance widgets, theme & icon shortcut presets, and quick system & sound profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

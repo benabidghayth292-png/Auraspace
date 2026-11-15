@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AuraSpace</string>
+    <string name="tagline_studio">Personalization Studio</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_wallpapers">Walls</string>
+    <string name="nav_widgets">Widgets</string>
+    <string name="nav_themes">Themes</string>
+    <string name="nav_sound">System</string>
+
+    <!-- Widgets -->
+    <string name="widget_clock_name">Aura Clock &amp; Date</string>
+    <string name="widget_clock_desc">Minimalist customizable clock and date widget</string>
+    <string name="widget_battery_name">Aura Battery &amp; Storage</string>
+    <string name="widget_battery_desc">Live device battery and internal storage meter</string>
+    <string name="widget_quote_name">Aura Daily Quote</string>
+    <string name="widget_quote_desc">Customizable daily motivational quote card</string>
+
+    <!-- Permissions & Dialogs -->
+    <string name="perm_wallpaper_title">Apply Wallpaper</string>
+    <string name="perm_wallpaper_desc">AuraSpace uses Android\'s SET_WALLPAPER permission to apply this artwork cleanly to your Home Screen, Lock Screen, or both without cropping artifacts.</string>
+    <string name="perm_photo_picker_title">Import Custom Photo</string>
+    <string name="perm_photo_picker_desc">To protect your privacy, AuraSpace uses the zero-permission Android Photo Picker instead of requesting broad gallery access (READ_MEDIA_IMAGES). Only the single image you choose is shared with the app.</string>
+    <string name="perm_write_settings_title">Modify System Settings</string>
+    <string name="perm_write_settings_desc">Changing screen timeout and system font scale directly from AuraSpace requires Android\'s WRITE_SETTINGS approval. You can grant or revoke this anytime in System Settings.</string>
+</resources>
